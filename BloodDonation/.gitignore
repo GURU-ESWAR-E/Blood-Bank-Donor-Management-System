@@ -1,0 +1,31 @@
+# Compiled Java Class Files
+*.class
+
+# Build / Output Directories
+out/
+bin/
+target/
+build/
+
+# IntelliJ IDEA Configs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code Configs
+.vscode/
+
+# Eclipse IDE Configs
+.project
+.classpath
+.settings/
+
+# Operating System Temporary Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log Files & Crash Dumps
+*.log
+hs_err_pid*.log
