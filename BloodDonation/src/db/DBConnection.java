@@ -22,7 +22,7 @@ public class DBConnection {
     // Database connection parameters
     private static final String URL = "jdbc:mysql://localhost:3306/bloodbank?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "your_password_here"; // IMPORTANT: Replace with your MySQL password
+    private static final String PASSWORD = "root"; // MySQL password verified and configured
 
     // Private constructor prevents direct instantiation of this utility class
     private DBConnection() {
